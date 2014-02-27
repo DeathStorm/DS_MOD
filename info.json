@@ -1,0 +1,10 @@
+{
+  "name": "DS_MOD",
+  "version": "0.0.1",
+  "title": "DS Modification",
+  "author": "Christian aka DeathStorm",
+  "contact": "ChristianT@OnlyEntertainment.de",
+  "homepage": "http://OnlyEntertainment.de",
+  "description": "Basic modification for the whole DS packet.",
+  "dependencies": ["base >= 0.9.1"]
+}

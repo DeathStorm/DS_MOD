@@ -1,0 +1,5 @@
+-- Every mod can have a control.lua script. When a game is run, 
+-- first the scenario script is executed and then all the control.lua 
+-- scripts from the mods are executed. This allows mods to add behavior 
+-- to the game without actually changing the underlying scenario script 
+-- (like freeplay.lua).
